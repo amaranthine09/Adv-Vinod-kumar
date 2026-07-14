@@ -7,7 +7,7 @@ const linkMap = {
   "About":          "#about",
   "Practice Areas": "#practice",
   "Milestones":     "#milestones",
-  "Contact":        "#contact",
+  "Contact":        "/contact",
 };
 
 export default function Footer() {

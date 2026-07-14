@@ -67,6 +67,38 @@
     { "icon": "fas fa-leaf", "title": "Revenue & Land", "desc": "Revenue appeals, land acquisition, mutation cases, and agricultural land disputes across Himachal Pradesh courts." }
   ],
 
+  "whyChooseMe": [
+    { "icon": "fas fa-user-shield", "title": "Personalized Attention", "desc": "Every case receives individual focus and a tailored legal strategy — no cookie-cutter solutions." },
+    { "icon": "fas fa-indian-rupee-sign", "title": "Transparent Fees", "desc": "Clear, upfront fee structure with no hidden charges. You know exactly what you're paying for." },
+    { "icon": "fas fa-laptop-code", "title": "Modern Legal Research", "desc": "Leveraging the latest legal databases, AI tools, and technology for thorough case preparation." },
+    { "icon": "fas fa-lock", "title": "Confidentiality Guaranteed", "desc": "Strict attorney-client privilege maintained at all times. Your information is safe and protected." },
+    { "icon": "fas fa-bell", "title": "Regular Case Updates", "desc": "Stay informed at every stage — receive timely updates on hearings, filings, and developments." },
+    { "icon": "fas fa-headset", "title": "Accessible & Responsive", "desc": "Quick response to calls, WhatsApp, and emails. Available when you need legal guidance the most." }
+  ],
+
+  "process": [
+    { "step": 1, "icon": "fas fa-calendar-check", "title": "Book a Consultation", "desc": "Schedule a meeting via phone, WhatsApp, or through the contact form on this website." },
+    { "step": 2, "icon": "fas fa-comments", "title": "Discuss Your Case", "desc": "Share the details of your legal matter in a confidential, no-obligation consultation session." },
+    { "step": 3, "icon": "fas fa-chess", "title": "Legal Strategy", "desc": "Receive a clear, honest assessment of your case along with a well-researched legal strategy." },
+    { "step": 4, "icon": "fas fa-balance-scale", "title": "Court Representation", "desc": "Vigorous representation in court with meticulous preparation, regular updates, and dedicated advocacy." }
+  ],
+
+  "faq": [
+    { "question": "How do I book a consultation?", "answer": "You can book a consultation by calling +91 8219284568, sending a WhatsApp message, or filling out the contact form on this website. I typically respond within a few hours." },
+    { "question": "What documents should I bring for my first meeting?", "answer": "Please bring all relevant documents related to your case — court orders, FIRs, property papers, contracts, correspondence, and any previous legal opinions. If you're unsure, just bring whatever you have and we'll sort it out together." },
+    { "question": "What are your fees?", "answer": "Fees vary depending on the nature and complexity of the case. I believe in transparent pricing — the fee structure is discussed upfront during the initial consultation itself, so there are no surprises later." },
+    { "question": "How long does a typical case take?", "answer": "Timelines depend on the type of case, the court's schedule, and the complexity of the matter. Simple matters may resolve in weeks, while complex litigation can take months or years. I always set realistic expectations from the start." },
+    { "question": "Do you handle cases outside Shimla?", "answer": "Yes, I primarily practice at the HP High Court in Shimla, but I also handle matters in district courts across Himachal Pradesh. For cases outside HP, I can coordinate with local advocates." },
+    { "question": "Can I contact you after office hours for urgent matters?", "answer": "Absolutely. For urgent legal matters such as bail applications, arrests, or time-sensitive filings, you can reach me via WhatsApp or phone call outside regular hours. I understand that legal emergencies don't follow a schedule." }
+  ],
+
+  "ctaBanner": {
+    "heading": "Need Legal Help?",
+    "subheading": "Book your first consultation today. Get honest, professional legal advice tailored to your situation.",
+    "buttonText": "Book Consultation Now",
+    "phoneText": "Or call directly:"
+  },
+
   "milestones": [
     {
       "icon": "fas fa-graduation-cap",
@@ -142,6 +174,14 @@
       "about": {
         "subtitle": "About Me"
       },
+      "whyChoose": {
+        "subtitle": "WHY CHOOSE ME",
+        "title": "What Sets Me Apart"
+      },
+      "process": {
+        "subtitle": "HOW IT WORKS",
+        "title": "Simple Steps to Get Started"
+      },
       "practice": {
         "subtitle": "PRACTICE AREAS",
         "title": "Areas of Legal Expertise"
@@ -153,6 +193,10 @@
       "testimonials": {
         "subtitle": "CLIENT SUCCESS",
         "title": "What People Say"
+      },
+      "faq": {
+        "subtitle": "COMMON QUESTIONS",
+        "title": "Frequently Asked Questions"
       },
       "contact": {
         "subtitle": "GET IN TOUCH",

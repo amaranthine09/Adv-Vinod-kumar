@@ -32,7 +32,7 @@ export default function Navbar() {
     { name: "Practice",     href: "#practice" },
     { name: "Milestones",   href: "#milestones" },
     { name: "Testimonials", href: "#testimonials" },
-    { name: "Contact",      href: "#contact" },
+    { name: "Contact",      href: "/contact" },
   ];
 
   const navBg = scrolled

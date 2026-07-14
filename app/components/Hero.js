@@ -96,7 +96,7 @@ export default function Hero() {
         {/* CTA Buttons */}
         <div className="flex flex-wrap gap-4 justify-center lg:justify-start mb-14">
           <a
-            href="#contact"
+            href="/contact"
             id="hero-consult-btn"
             className="inline-flex items-center gap-2.5 px-8 py-3.5 rounded-full font-semibold text-[0.92rem] font-[family-name:var(--font-inter)] shadow-md transition-all duration-300 hover:-translate-y-1"
             style={{
