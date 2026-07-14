@@ -60,8 +60,8 @@ export async function POST(request) {
       const result = JSON.parse(text);
       return NextResponse.json(result);
     } catch {
-      // Google Apps Script sometimes returns HTML on redirect
-      return NextResponse.json({ success: true });
+      console.error("Apps Script returned non-JSON:", text.substring(0, 500));
+      return NextResponse.json({ error: "Apps Script error: " + text.substring(0, 100) }, { status: 500 });
     }
   } catch (err) {
     return NextResponse.json(

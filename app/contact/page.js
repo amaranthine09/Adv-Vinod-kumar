@@ -12,23 +12,27 @@ export default function ContactPage() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     const form = e.target;
-    const formData = new FormData(form);
-    formData.append("access_key", "23fc6ab8-a66d-4492-a773-5c6154e9d704");
-    formData.append("subject", "New Consultation Request from Website");
 
     try {
-      const response = await fetch("https://api.web3forms.com/submit", {
+      const response = await fetch("/api/contact", {
         method: "POST",
-        body: formData,
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          name: form.name.value,
+          phone: form.phone.value,
+          email: form.email.value,
+          legal_matter: form.legal_matter.value,
+          message: form.message.value,
+        }),
       });
       const result = await response.json();
-      if (result.success) {
+      if (response.ok) {
         setSubmitted(true);
         form.reset();
         setTimeout(() => setSubmitted(false), 5000);
       } else {
         console.error("Error", result);
-        alert(data.ui.sections.contact.formError);
+        alert(result.error || data.ui.sections.contact.formError);
       }
     } catch (error) {
       console.error("Error submitting form", error);
