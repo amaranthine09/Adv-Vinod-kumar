@@ -1,0 +1,174 @@
+{
+  "personal": {
+    "name": "Adv. Vinod Kumar",
+    "title": "Hp High Court Shimla, District Courts, State Consumer Commission, State Consumer Forum and Arbitration",
+    "court": "HP High Court",
+    "location": "Shimla, HP",
+    "tagline": "Committed to Justice from Day One.",
+    "phone": "+91 8219284568",
+    "phoneHref": "tel:+919876543210",
+    "email": "vt231329@gmail.com",
+    "address": "Chamber B-4, Municipal Commercial Complex, Near High Court Shimla, Shimla - 171001, Himachal Pradesh, India",
+    "consultationHours": "Mon–Sat: 9:00 AM – 6:00 PM"
+  },
+
+  "socialLinks": {
+    "linkedin": "https://linkedin.com/in/YOUR_LINKEDIN",
+    "instagram": "https://instagram.com/amaranthine__09",
+    "whatsapp": "https://wa.me/+918219284568",
+    "email": "mailto:vinodthakur052005@gmail.com"
+  },
+
+  "heroStats": [
+    { "value": 1, "suffix": "+", "label": "Year Practice" },
+    { "value": 50, "suffix": "+", "label": "Cases Handled" },
+    { "value": 100, "suffix": "%", "label": "Dedication" }
+  ],
+
+  "typewriterPhrases": [
+    "Committed to Justice from Day One.",
+    "Your Rights, My Priority.",
+    "Fresh Perspective. Fearless Advocacy.",
+    "Building Trust, One Case at a Time."
+  ],
+
+  "about": {
+    "sectionTitle": "A Young Advocate with a Strong Vision",
+    "cards": [
+      {
+        "icon": "fas fa-user-tie",
+        "title": "Who I Am",
+        "body": "Adv. Vinod Thakur is a passionate young advocate practicing at the Himachal Pradesh High Court, Shimla. Having entered the legal profession in 2025, he is currently practicing under the mentorship of a senior advocate at HP High Court, gaining hands-on courtroom experience and building a strong foundation in diverse legal matters."
+      },
+      {
+        "icon": "fas fa-graduation-cap",
+        "title": "Education & Enrollment",
+        "items": [
+          "LLB – Himachal Pradesh University",
+          "Enrolled – Bar Council of HP (2025)",
+          "Practicing under Senior Advocate at HP High Court",
+          "Actively attending matters in the HP High Court, Shimla"
+        ]
+      },
+      {
+        "icon": "fas fa-scroll",
+        "title": "My Vision",
+        "body": "\"Every person deserves access to justice, regardless of their circumstances. As a new advocate, I bring fresh energy, modern legal research skills, and an unwavering commitment to fighting for what is right. I believe in building lasting attorney-client relationships based on trust and transparency.\""
+      }
+    ]
+  },
+
+  "practiceAreas": [
+    { "icon": "fas fa-landmark", "title": "Constitutional Law", "desc": "Assisting in matters involving fundamental rights, writ petitions, and public interest litigations before the HP High Court." },
+    { "icon": "fas fa-handshake", "title": "Civil Law", "desc": "Property disputes, contracts, injunctions, and civil suits — bringing diligent research and fresh perspective to every case." },
+    { "icon": "fas fa-gavel", "title": "Criminal Law", "desc": "Bail applications, criminal trials, appeals, and revisions — supporting clients with dedicated and principled defense." },
+    { "icon": "fas fa-home", "title": "Family & Matrimonial", "desc": "Divorce, custody, maintenance, and domestic violence matters — handled with sensitivity, empathy, and professionalism." },
+    { "icon": "fas fa-briefcase", "title": "Service & Employment", "desc": "Government service disputes, departmental inquiries, and employment matters before the High Court and tribunals." },
+    { "icon": "fas fa-leaf", "title": "Revenue & Land", "desc": "Revenue appeals, land acquisition, mutation cases, and agricultural land disputes across Himachal Pradesh courts." }
+  ],
+
+  "milestones": [
+    {
+      "icon": "fas fa-graduation-cap",
+      "year": "2020 – 2025",
+      "title": "Completed BA LLB (Hons.)",
+      "desc": "Successfully completed a five-year integrated BA LLB (Hons.) at the University Institute of Legal Studies (UILS), Chaura Maidan, Shimla, gaining robust theoretical knowledge and practical insights across diverse branches of law.",
+      "side": "left"
+    },
+    {
+      "icon": "fas fa-star",
+      "year": "2025",
+      "title": "Enrolled at Bar Council of HP",
+      "desc": "Successfully enrolled as an Advocate under the Bar Council of Himachal Pradesh and officially began the journey into legal practice.",
+      "side": "right"
+    },
+    {
+      "icon": "fas fa-handshake",
+      "year": "2025",
+      "title": "Joined Senior Advocate's Chamber",
+      "desc": "Started practicing under the guidance of a senior advocate at the HP High Court, learning courtroom advocacy, brief-drafting, and legal strategy firsthand.",
+      "side": "left"
+    },
+    {
+      "icon": "fas fa-scale-balanced",
+      "year": "2025–Present",
+      "title": "Active Practice at HP High Court",
+      "desc": "Regularly appearing before the HP High Court in civil, criminal, and writ matters — building expertise and earning client trust with every hearing.",
+      "side": "right"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "text": "Adv. Vinod Thakur is extremely dedicated and thorough. Despite being a young advocate, his preparation for my property case was outstanding. He left no stone unturned and guided me through every step with clarity.",
+      "name": "Rajesh Sharma",
+      "place": "Property Dispute Client, Shimla"
+    },
+    {
+      "text": "His fresh approach and deep knowledge of law really impressed me. He handled my bail application with great urgency and professionalism. I would definitely recommend him to anyone seeking a hardworking advocate.",
+      "name": "Suresh Kumar",
+      "place": "Criminal Defense Client, Kangra"
+    },
+    {
+      "text": "What I appreciated most was Vinod's honesty and transparency. He explained every legal step clearly, set realistic expectations, and fought genuinely for my service matter. A trustworthy young lawyer.",
+      "name": "Priya Devi",
+      "place": "Service Matter Client, Mandi"
+    }
+  ],
+
+  "footer": {
+    "tagline": "Committed to Justice. Dedicated to Excellence.",
+    "quickLinks": ["Home", "About", "Practice Areas", "Milestones", "Contact"],
+    "practiceList": ["Constitutional Law", "Civil Law", "Criminal Law", "Family & Matrimonial", "Revenue & Land"],
+    "copyright": "© 2025 Adv. Vinod Thakur. All Rights Reserved.",
+    "disclaimer": "⚠ This website is for informational purposes only and does not constitute legal advice."
+  },
+
+  "ui": {
+    "meta": {
+      "title": "Adv. Vinod Thakur | Advocate – HP High Court, Shimla",
+      "description": "Advocate Vinod Thakur practices at the High Court of Himachal Pradesh, Shimla. Committed to justice, fresh perspective, and fearless advocacy."
+    },
+    "buttons": {
+      "bookConsultation": "Book Consultation",
+      "knowMore": "Know More",
+      "sendMessage": "Send Message",
+      "themeDark": "Dark",
+      "themeLight": "Light",
+      "scroll": "Scroll"
+    },
+    "heroBadge": "HP HIGH COURT · SHIMLA · ADVOCATE · LEGAL COUNSEL ·",
+    "sections": {
+      "about": {
+        "subtitle": "About Me"
+      },
+      "practice": {
+        "subtitle": "PRACTICE AREAS",
+        "title": "Areas of Legal Expertise"
+      },
+      "milestones": {
+        "subtitle": "JOURNEY & MILESTONES",
+        "title": "Professional Timeline"
+      },
+      "testimonials": {
+        "subtitle": "CLIENT SUCCESS",
+        "title": "What People Say"
+      },
+      "contact": {
+        "subtitle": "GET IN TOUCH",
+        "title": "Schedule a Consultation",
+        "formTitle": "Send a Message",
+        "formSuccess": "Thank you! We will contact you shortly.",
+        "formError": "Something went wrong while sending your message. Please try again.",
+        "networkError": "Network error. Please check your internet connection and try again.",
+        "fields": {
+          "name": { "label": "Full Name", "placeholder": "Your Full Name" },
+          "phone": { "label": "Phone Number", "placeholder": "+91 XXXXX XXXXX" },
+          "email": { "label": "Email Address", "placeholder": "your@email.com" },
+          "subject": { "label": "Legal Matter", "placeholder": "Select Area of Law" },
+          "message": { "label": "Brief Description", "placeholder": "Briefly describe your legal matter..." }
+        }
+      }
+    }
+  }
+}
